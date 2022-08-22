@@ -1,6 +1,6 @@
 - 👋 Hi, I’m elia
-- 👀 I’m interested in C++ and Phyton.
-- 🌱 I’m currently learning the basics of C++
+- 👀 I’m interested in c++ and phyton.
+- 🌱 I’m currently learning the basics of c++
 - 💞️ I am looking for an internship & training as a software/web developer to learn more!
 - 📫 How to reach me? 
 - 💌 You + me = ✉
