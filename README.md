@@ -1,5 +1,5 @@
 - 👋 Hi, I’m elia
-- 👀 I’m interested in C++, Phyton , Html and Css.
+- 👀 I’m interested in C++, Phyton , HTML and CSS.
 - 🌱 I’m currently learning the basics of c++
 - 💞️ I am looking for an internship & training as a software/web developer to learn more!
 - 📫 How to reach me? 
